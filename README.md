@@ -1,0 +1,1 @@
+Program wyświetla napis "Hello, World!"
